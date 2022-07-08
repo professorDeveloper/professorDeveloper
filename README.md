@@ -7,7 +7,7 @@
 <br/>
 
 ![outLookDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=outLookDev&show_icons=true&theme=radical) <a href="https://github.com/outLookDev/github-readme-stats"><img 
-alt="Stc Android's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stcAndroid&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+alt="outLookDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stcAndroid&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 ## My Ranks
@@ -16,7 +16,7 @@ alt="Stc Android's Top Languages" src="https://github-readme-stats.vercel.app/ap
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=outLookDev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/stcAndroid)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=outLookDev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/outLookDev)
 <br>
 
 
@@ -25,4 +25,4 @@ alt="Stc Android's Top Languages" src="https://github-readme-stats.vercel.app/ap
 [resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3> <p align="left"> 
- <a href="https://instagram.com/hud_azamov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hud_azamov" height="30" width="40" /></a> <a href="https://www.youtube.com/channel/UCKmg4BPZ9oG6_lvvLUaApSA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="android stc" height="30" width="40" /></a> <a href="https://www.hackerrank.com/stc hacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@azamovhud007" height="30" width="40" /></a> </p> 
+ <a href="https://instagram.com/hud_azamov" target="blank"><img align="center" src="https://raw.githubusercontent.com/outLookDev/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hud_azamov" height="30" width="40" /></a> <a href="https://www.youtube.com/channel/UCKmg4BPZ9oG6_lvvLUaApSA" target="blank"><img align="center" src="https://raw.githubusercontent.com/outLookDev/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="android stc" height="30" width="40" /></a> <a href="https://www.hackerrank.com/stc hacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/outLookDev/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@azamovhud007" height="30" width="40" /></a> </p> 
