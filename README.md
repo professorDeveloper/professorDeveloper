@@ -6,7 +6,7 @@
 ### 📊 My Github Stats:
 <br/>
 
-![outLookDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=outLookDev&show_icons=true&theme=radical) <a href="https://github.com/outLookDev/github-readme-stats"><img 
+![outLookDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=outLookDev&show_icons=true&theme=radical) <a href="https://github.com/outLookDev"><img 
 alt="outLookDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outLookDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
