@@ -21,6 +21,6 @@ alt="outLookDev's Top Languages" src="https://github-readme-stats.vercel.app/api
 
 
 
-
+## 🛠 Skills Flutter, Kotlin, Dart, Javascript, HTML, JAVA, Firebase, Node
 [resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
 
