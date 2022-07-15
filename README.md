@@ -12,7 +12,7 @@ alt="outLookDev's Top Languages" src="https://github-readme-stats.vercel.app/api
 
 ## My Ranks
 
-![trophy](https://github-profile-trophy.vercel.app/?username=outLookDev&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=outLookDev)
 
 
 
