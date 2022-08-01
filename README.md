@@ -6,17 +6,17 @@
 ### 📊 My Github Stats:
 <br/>
 
-![outLookDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=outLookDev&show_icons=true&theme=radical) <a href="https://github.com/outLookDev"><img 
-alt="outLookDev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outLookDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+![outLookDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=professorDeveloper&show_icons=true&theme=radical) <a href="https://github.com/professorDeveloper"><img 
+alt="professorDeveloper's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 ## My Ranks
 
-![trophy](https://github-profile-trophy.vercel.app/?username=outLookDev&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=professorDeveloper&theme=dracula)
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=outLookDev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/outLookDev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=professorDeveloper&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/outLookDev)
 <br>
 
 
