@@ -12,7 +12,7 @@ alt="professorDeveloper's Top Languages" src="https://github-readme-stats.vercel
 
 ## My Ranks
 
-![trophy](https://github-profile-trophy.vercel.app/?username=professorDeveloper&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=professorDeveloper-ma&theme=dracula)
 
 
 
