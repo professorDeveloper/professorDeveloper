@@ -4,12 +4,7 @@
 </p>
 
 ### 📊 My Github Stats:
-<br/>
-
-    <a><h2>Trophies</h2></a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=professorDeveloper&row=4&theme=onedark&no-frame=true"/>
-    </a>    
+![ProfessorDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=professorDeveloper&show_icons=true&theme=radical)
 
 alt="professorDeveloper's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
