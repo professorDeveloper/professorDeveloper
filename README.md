@@ -6,8 +6,8 @@
 ### 📊 My Github Stats:
 ![ProfessorDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=professorDeveloper&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&langs_count=6&theme=monokai)](https://github.com/professorDeveloper)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&langs_count=8)](https://github.com/professorDeveloper)
 
 ## My Ranks
 
