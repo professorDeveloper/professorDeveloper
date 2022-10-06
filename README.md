@@ -11,7 +11,7 @@
 
 ## My Ranks
 
-<img src="https://github-profile-trophy.vercel.app/?username=professorDeveloper&theme=monokai" alt="GitHub Ranks" /></a></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&theme=dark)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=professorDeveloper&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/professorDeveloper)
