@@ -6,7 +6,7 @@
 ### 📊 My Github Stats:
 ![ProfessorDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=professorDeveloper&show_icons=true&theme=radical)
 
-alt="professorDeveloper's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&langs_count=8)](https://github.com/professorDeveloper)
 
 
 ## My Ranks
