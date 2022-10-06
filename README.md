@@ -11,7 +11,7 @@
 
 ## My Ranks
 
-<img src="https://github-profile-trophy.vercel.app/?username=professorDeveloper" alt="GitHub Ranks" /></a></p>
+<img src="https://github-profile-trophy.vercel.app/?username=professorDeveloper&theme=dark" alt="GitHub Ranks" /></a></p>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=professorDeveloper&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/professorDeveloper)
