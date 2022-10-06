@@ -20,9 +20,6 @@
 ## 🛠 Skills Flutter, Kotlin, Dart, Javascript, HTML, JAVA, Firebase, Node
 [resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
  
-##Ranks 
-[![ProfessorDeveloper's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=professorDeveloper&country_code=uzbekistan&show_private=true)](https://github.com/professorDeveloper)
-
 # Diagram 
 [![Professor Developer's github activity graph](https://activity-graph.herokuapp.com/graph?username=professorDeveloper&theme=monokai)](https://github.com/professorDeveloper)
 
