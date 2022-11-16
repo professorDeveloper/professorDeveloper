@@ -25,6 +25,3 @@ s
  
 # Diagram 
 [![Professor Developer's github activity graph](https://activity-graph.herokuapp.com/graph?username=professorDeveloper&theme=monokai)](https://github.com/professorDeveloper)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=professorDeveloper&label=power&icon=8&pretty=false" />
-</a>
