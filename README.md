@@ -12,13 +12,14 @@ alt="professorDeveloper's Top Languages" src="https://github-readme-stats.vercel
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=professorDeveloper&label=Profile%20Power&icon=8&pretty=false" />
   
-  
-  
 </a>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=professorDeveloper&label=Profile%20Coder&icon=2&pretty=false" />
 </a>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=professorDeveloper&label=Profile%20fires&icon=6&pretty=false" />
+</a>
 
 ## My Ranks
 
