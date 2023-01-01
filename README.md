@@ -1,4 +1,4 @@
-## ![image]((https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif)) **About me**
+** ![about_me](https://user-images.githubusercontent.com/108933534/210176252-73ba439a-fd6f-440b-aa7b-09fdcd88ca7f.gif) **About me**
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=I+am+Hud+Azamov;I+am+Mobile+Developer;Hello+Github;Mobile+Programmer;I+am+from+Uzbekistan;My+best+code+Kotlin;🌱+I’m+currently+learning+Flutter;👯+I’m+looking+to+collaborate+with+other+content+creators"></a>
