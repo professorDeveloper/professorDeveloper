@@ -34,4 +34,5 @@ alt="professorDeveloper's Top Languages" src="https://github-readme-stats.vercel
  
 # Diagram 
 
-[![Professor Developer's github activity graph](https://activity-graph.herokuapp.com/graph?username=professorDeveloper&theme=monokai)](https://github.com/professorDeveloper)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=professorDeveloper&theme=dracula)](https://github.com/professorDeveloper)
+
