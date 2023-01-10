@@ -9,7 +9,7 @@
 alt="professorDeveloper's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 ## My Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=professorDeveloper&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/professorDeveloper)
-[![](https://visitcount.itsvg.in/api?id=professorDeveloper&label=Profile%20Power&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=professorDeveloper&label=Profile%20Power&pretty=true)](https://visitcount.itsvg.in)[!][]
 [![](https://visitcount.itsvg.in/api?id=professorDeveloper&label=Profile%20Power&pretty=true)](https://visitcount.itsvg.in) [![](https://visitcount.itsvg.in/apiid=professorDeveloper&label=Profile%20Fires&pretty=true)](https://visitcount.itsvg.in)
 ## My Ranks
 
