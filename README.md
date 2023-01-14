@@ -7,7 +7,9 @@
 ### 📊 My Github Stats:
 ![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=professordeveloper&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+    
+   <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professordeveloper&show_icons=true&theme=radical&hide=css"/> </a>
+
 
 ## My Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=professorDeveloper&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/professorDeveloper)
