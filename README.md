@@ -5,9 +5,9 @@
 </p>
 
 ### 📊 My Github Stats:
-![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=rivaanranawat&show_icons=true&theme=radical)
+![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=professordeveloper&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professordeveloper&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=professorDeveloper&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/professorDeveloper)
