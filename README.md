@@ -5,8 +5,9 @@
 </p>
 
 ### 📊 My Github Stats:
-![professorDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=professorDeveloper&show_icons=true&theme=radical) <a href="https://github.com/professorDeveloper">
-	<img alt="professorDeveloper's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&langs_count=8&layout=compact" /></a>
+![professorDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=professorDeveloper&show_icons=true&theme=radical) <a href="https://github.com/professorDeveloper"></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com)
+
 ## My Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=professorDeveloper&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/professorDeveloper)
 
