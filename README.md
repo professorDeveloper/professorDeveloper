@@ -7,7 +7,7 @@
 ### 📊 My Github Stats:
 ![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=professordeveloper&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professordeveloper&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professordeveloper&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=professorDeveloper&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/professorDeveloper)
@@ -17,9 +17,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=professorDeveloper&theme=dracula" alt="GitHub Ranks" /></a></p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=professorDeveloper&label=Profile%20Views&pretty=false" />
-</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
