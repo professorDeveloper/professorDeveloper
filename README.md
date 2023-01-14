@@ -7,7 +7,7 @@
 ### 📊 My Github Stats:
 ![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=professordeveloper&show_icons=true&theme=radical)
 
-<a href="Top Language`s"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&theme=radical&line_height=40&hide=css"/> </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=professorDeveloper&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/professorDeveloper)
@@ -28,7 +28,7 @@
 
 ## 🛠 Skills Flutter, Kotlin, Dart, Javascript, HTML, JAVA, Firebase, Node
 [resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
- 
+
 # Diagram 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=professorDeveloper&theme=dracula)](https://github.com/professorDeveloper)
