@@ -5,7 +5,9 @@
 </p>
 
 ### 📊 My Github Stats:
-![professorDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=professorDeveloper&show_icons=true&theme=radical) <a href="https://github.com/professorDeveloper"></a>
+![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=rivaanranawat&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com)
 
 ## My Streak
