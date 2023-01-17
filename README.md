@@ -5,7 +5,7 @@
 </p>
 
 ### 📊 My Github Stats:
-![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=professordeveloper&show_icons=true&theme=dracula)
+![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=professordeveloper&show_icons=true)
 
     
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=professorDeveloper&theme=radical&line_height=40&lang_count=10"/> </a>
