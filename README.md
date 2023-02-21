@@ -13,7 +13,7 @@
 
 ## My Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=professorDeveloper" alt="" /></p>
+<p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=professorDeveloper&theme=dracula" alt="professorDeveloper" /></p>
 
 ## My Ranks
 
