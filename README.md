@@ -13,7 +13,7 @@
 
 ## My Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=professorDeveloper)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=professorDeveloper&theme=radical)](https://git.io/streak-stats)
 
 ## My Ranks
 
