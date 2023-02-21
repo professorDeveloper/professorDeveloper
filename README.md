@@ -13,7 +13,7 @@
 
 ## My Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=professorDeveloper&date_format=[Y.]n.j)](https://github.com)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=foregroundUser&date_format=[Y.]n.j)](https://github.com)
 
 ## My Ranks
 
