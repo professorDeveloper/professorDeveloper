@@ -13,7 +13,7 @@
 
 ## My Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=foregroundUser&date_format=[Y.]n.j)](https://github.com)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=professorDeveloper&theme=dracula" alt="jamshidisoqov" /></p>
 
 ## My Ranks
 
