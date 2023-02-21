@@ -12,8 +12,8 @@
 
 
 ## My Streak
-[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com?user=professorDeveloper&theme=dracula&theme=dracule&hide_border=true&date_format=M%20j%5B%2C%20Y%5D](https://streak-stats.demolab.com/?user=professorDeveloper&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j))](https://github.com/professorDeveloper)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=professorDeveloper)](https://git.io/streak-stats)
 
 ## My Ranks
 
