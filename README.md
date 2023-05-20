@@ -8,7 +8,7 @@
 ![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=professordeveloper&show_icons=truea&theme=radical)
 
     
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=professorDeveloper&theme=dracula&line_height=60&line_width=120"/> </a>
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/??username=professorDeveloper&theme=dracula&line_height=60&line_width=120"/> </a>
 
 
 ## My Streak
@@ -36,7 +36,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=professorDeveloper&theme=dracula)](https://github.com/professorDeveloper)
 
 # My Waka Time
-<a href="https://wakatime.com/@7347a5ed-9d1c-48cc-96f9-e5ca7c4635b0"><img src="https://wakatime.com/badge/user/7347a5ed-9d1c-48cc-96f9-e5ca7c4635b0.svg" alt="Total time coded since Aug 22 2022" /></a>
+[![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=professorDeveloper)](https://wakatime.com/@professorDeveloper)
+
 
 
 
