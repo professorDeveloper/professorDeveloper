@@ -8,7 +8,7 @@
 ![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=professordeveloper&show_icons=truea&theme=radical)
 
     
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=professorDeveloper&theme=dracula&line_height=40"/> </a>
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=professorDeveloper&theme=dracula&line_height=60&line_width=120"/> </a>
 
 
 ## My Streak
