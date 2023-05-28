@@ -33,7 +33,7 @@
 
 # Diagram 
 
-[![ProfessorDeveloper's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=professorDeveloper&theme=dracula)](https://github.com/professorDeveloper)
+[![Hud Azamov's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=professorDeveloper&custom_title=Android%20Developer%20Middle&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # My Waka Time
 [![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=professorDeveloper)](https://wakatime.com/@professorDeveloper)
