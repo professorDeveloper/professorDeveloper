@@ -36,7 +36,7 @@
 [![ProfessorDeveloper's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=professorDeveloper&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # My Waka Time
-[![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=professorDeveloper)](https://wakatime.com/@professorDeveloper)
+[![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=professorDeveloper&theme=radical)](https://wakatime.com/@professorDeveloper)
 
 
 
