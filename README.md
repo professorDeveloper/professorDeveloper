@@ -13,11 +13,11 @@
 
 ## My Streak
 
-<p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=professorDeveloper&theme=radical" alt="professorDeveloper" /></p>
+<p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=professorDeveloper" alt="professorDeveloper" /></p>
 
 ## My Ranks
 
-<img src="https://github-profile-trophy.vercel.app/?username=professorDeveloper&theme=radical" alt="GitHub Ranks" /></a></p>
+<img src="https://github-profile-trophy.vercel.app/?username=professorDeveloper" alt="GitHub Ranks" /></a></p>
 
 
 
