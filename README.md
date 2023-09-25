@@ -13,7 +13,7 @@
 
 ## My Streak
 
-<p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=professorDeveloper" alt="professorDeveloper" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=professorDeveloper&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 ## My Ranks
 
