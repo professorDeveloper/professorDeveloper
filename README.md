@@ -17,7 +17,7 @@
 
 ## My Ranks
 
-<img src="https://github-profile-trophy.vercel.app/?username=professorDeveloper" alt="GitHub Ranks" /></a></p>
+<img src="https://github-profile-trophy.vercel.app/?username=professorDeveloper&theme=radical" alt="GitHub Ranks" /></a></p>
 
 
 
