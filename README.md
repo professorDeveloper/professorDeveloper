@@ -13,13 +13,6 @@
     
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=professorDeveloper&theme=dracula&line_height=60&line_width=120"/> </a>
 
-
-
-## Viewer 
-
-<img src="https://count.getloli.com/@professorDeveloper?name=Sozo-tv&theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
-
-
 ## My Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=professorDeveloper&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dracula&date_format=[Y.]n.j)](https://git.io/streak-stats)
@@ -41,6 +34,10 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+## Viewer 
+
+<img src="https://count.getloli.com/@professorDeveloper?name=Sozo-tv&theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 
 
 # Diagram 
