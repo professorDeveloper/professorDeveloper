@@ -35,11 +35,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## Viewer 
-
-<img src="https://count.getloli.com/@professorDeveloper?name=Sozo-tv&theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
-
-
 # Diagram 
 
 [![ProfessorDeveloper's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=professorDeveloper&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
