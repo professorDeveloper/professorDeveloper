@@ -15,7 +15,7 @@
 
 ## My Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=professorDeveloper&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dracula&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vfu9.vercel.app?user=professorDeveloper&theme=dracula)](https://git.io/streak-stats)
 
 ## My Ranks
 
