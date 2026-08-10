@@ -9,22 +9,10 @@
 ### 📊 My Github Stats:
 
 <p align="center">
-  <img width="620" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=professorDeveloper&theme=dracula" alt="professorDeveloper's profile details"/>
-</p>
-
-<p align="center">
-  <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=professorDeveloper&theme=dracula" alt="Stats"/>
-</p>
-
-<p align="center">
-  <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=professorDeveloper&theme=dracula" alt="Top languages by commit"/>
-</p>
-
-<p align="center">
-  <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=professorDeveloper&theme=dracula" alt="Top languages by repo"/>
-</p>
-
-<p align="center">
+  <img width="620" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=professorDeveloper&theme=dracula" alt="professorDeveloper's profile details"/><br/>
+  <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=professorDeveloper&theme=dracula" alt="Stats"/><br/>
+  <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=professorDeveloper&theme=dracula" alt="Top languages by commit"/><br/>
+  <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=professorDeveloper&theme=dracula" alt="Top languages by repo"/><br/>
   <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=professorDeveloper&theme=dracula&utcOffset=5" alt="Productive time"/>
 </p>
 
