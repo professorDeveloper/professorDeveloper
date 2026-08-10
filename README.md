@@ -9,11 +9,11 @@
 ### 📊 My Github Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=professorDeveloper&theme=dracula" alt="professorDeveloper's profile details"/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=professorDeveloper&theme=dracula" alt="Stats"/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=professorDeveloper&theme=dracula" alt="Top languages by commit"/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=professorDeveloper&theme=dracula" alt="Top languages by repo"/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=professorDeveloper&theme=dracula&utcOffset=5" alt="Productive time"/>
+  <img src="https://gh-readme-stats.vercel.app/api?username=professorDeveloper&show_icons=true&theme=dracula" alt="professorDeveloper's github stats"/>
+</p>
+
+<p align="center">
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&theme=dracula&line_height=60&line_width=120" alt="Top languages"/>
 </p>
 
 ## My Streak
