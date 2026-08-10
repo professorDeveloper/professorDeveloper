@@ -9,23 +9,23 @@
 ### 📊 My Github Stats:
 
 <p align="center">
-  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=professorDeveloper&theme=dracula" alt="professorDeveloper's profile details"/>
+  <img width="620" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=professorDeveloper&theme=dracula" alt="professorDeveloper's profile details"/>
 </p>
 
 <p align="center">
-  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=professorDeveloper&theme=dracula" alt="Stats"/>
+  <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=professorDeveloper&theme=dracula" alt="Stats"/>
 </p>
 
 <p align="center">
-  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=professorDeveloper&theme=dracula" alt="Top languages by commit"/>
+  <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=professorDeveloper&theme=dracula" alt="Top languages by commit"/>
 </p>
 
 <p align="center">
-  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=professorDeveloper&theme=dracula" alt="Top languages by repo"/>
+  <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=professorDeveloper&theme=dracula" alt="Top languages by repo"/>
 </p>
 
 <p align="center">
-  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=professorDeveloper&theme=dracula&utcOffset=5" alt="Productive time"/>
+  <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=professorDeveloper&theme=dracula&utcOffset=5" alt="Productive time"/>
 </p>
 
 ## My Streak
@@ -59,5 +59,5 @@
 # My Waka Time
 
 <p align="center">
-  <a href="https://wakatime.com/@box"><img width="500" src="https://gh-readme-stats.vercel.app/api/wakatime?username=box&theme=dracula" alt="professorDeveloper's wakatime stats"/></a>
+  <a href="https://wakatime.com/@box"><img width="450" src="https://gh-readme-stats.vercel.app/api/wakatime?username=box&theme=dracula&langs_count=5" alt="professorDeveloper's wakatime stats"/></a>
 </p>
