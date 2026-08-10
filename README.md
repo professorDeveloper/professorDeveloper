@@ -9,34 +9,55 @@
 ### 📊 My Github Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=professorDeveloper&theme=dracula" alt="professorDeveloper's profile details"/>
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=professorDeveloper&theme=dracula" alt="professorDeveloper's profile details"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=professorDeveloper&theme=dracula" alt="professorDeveloper's stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=professorDeveloper&theme=dracula" alt="Most used languages"/>
+  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=professorDeveloper&theme=dracula" alt="Stats"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=professorDeveloper&theme=dracula" alt="Repos per language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=professorDeveloper&theme=dracula&utcOffset=5" alt="Productive time"/>
+  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=professorDeveloper&theme=dracula" alt="Top languages by commit"/>
+</p>
+
+<p align="center">
+  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=professorDeveloper&theme=dracula" alt="Top languages by repo"/>
+</p>
+
+<p align="center">
+  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=professorDeveloper&theme=dracula&utcOffset=5" alt="Productive time"/>
 </p>
 
 ## My Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=professorDeveloper&theme=dracula)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=professorDeveloper&theme=dracula" alt="GitHub Streak"/></a>
+</p>
 
 ## My Ranks
 
-<img src="https://github-profile-trophy-eight.vercel.app/?username=professorDeveloper&theme=radical" alt="GitHub Ranks"/>
+<p align="center">
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=professorDeveloper&theme=dracula&column=4" alt="GitHub Ranks"/>
+</p>
 
 
 [resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
 
 ## ✍️ Random Dev Quote
-![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random dev quote"/>
+</p>
 
 
 # Diagram
 
-[![professorDeveloper's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=professorDeveloper&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=professorDeveloper&theme=dracula" alt="professorDeveloper's github activity graph"/></a>
+</p>
+
+# My Waka Time
+
+<p align="center">
+  <a href="https://wakatime.com/@box"><img width="500" src="https://gh-readme-stats.vercel.app/api/wakatime?username=box&theme=dracula" alt="professorDeveloper's wakatime stats"/></a>
+</p>
