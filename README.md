@@ -37,7 +37,7 @@
 ## My Ranks
 
 <p align="center">
-  <img src="https://github-profile-trophy-eight.vercel.app/?username=professorDeveloper&theme=dracula&column=4" alt="GitHub Ranks"/>
+  <img width="100%" src="https://github-profile-trophy-eight.vercel.app/?username=professorDeveloper&theme=dracula&column=-1&margin-w=5" alt="GitHub Ranks"/>
 </p>
 
 
