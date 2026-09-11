@@ -1,0 +1,85 @@
+name: Activity graph
+
+# The README used to embed the graph from the author's public Vercel
+# deployment, which is now off — every request answers 402 "Payment
+# required / DEPLOYMENT_DISABLED", so the profile showed a broken image.
+#
+# This renders the same graph here instead: the generator is run inside the
+# job with this repository's own token, the SVG is written to
+# assets/activity-graph.svg and committed, and the README points at the file.
+# Nothing outside GitHub is involved, so there is nothing left to go down.
+#
+# Daily, and on demand from the Actions tab.
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/activity-graph.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      USERNAME: professorDeveloper
+      # Same look the README always had; every option the generator takes is
+      # documented at https://github.com/ashutosh00710/github-readme-activity-graph
+      QUERY: 'theme=dracula&hide_border=true&area=true'
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # The generator, at its current main. Its lock file is out of step
+      # with its package.json, so `npm install` rather than `npm ci`.
+      - name: Fetch and build the generator
+        run: |
+          set -euo pipefail
+          git clone --depth 1 https://github.com/ashutosh00710/github-readme-activity-graph.git /tmp/graph
+          cd /tmp/graph
+          npm install --no-audit --no-fund --silent
+          npx tsc
+
+      # The contributions calendar is public data; the job's own token is
+      # enough for the GraphQL query the generator makes.
+      - name: Render the SVG
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PORT: '5100'
+        run: |
+          set -euo pipefail
+          cd /tmp/graph
+          node dist/main.js > /tmp/graph.log 2>&1 &
+          for i in $(seq 1 30); do
+            curl -sf "http://localhost:5100/graph?username=$USERNAME&$QUERY" -o "$GITHUB_WORKSPACE/assets/activity-graph.svg" && break
+            sleep 1
+          done
+          kill %1 || true
+          test -s "$GITHUB_WORKSPACE/assets/activity-graph.svg"
+          grep -q '<svg' "$GITHUB_WORKSPACE/assets/activity-graph.svg" || { echo "::error::Not an SVG:"; head -c 300 "$GITHUB_WORKSPACE/assets/activity-graph.svg"; exit 1; }
+          echo "$(wc -c < "$GITHUB_WORKSPACE/assets/activity-graph.svg") bytes"
+
+      - name: Commit if it changed
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add assets/activity-graph.svg
+          if git diff --cached --quiet; then
+            echo "Unchanged."
+          else
+            git commit -m "chore: refresh the activity graph"
+            git push
+          fi

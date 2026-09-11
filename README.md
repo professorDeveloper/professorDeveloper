@@ -41,7 +41,7 @@
 # Diagram
 
 <p align="left">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=professorDeveloper&theme=dracula" alt="professorDeveloper's github activity graph"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="assets/activity-graph.svg" alt="professorDeveloper's github activity graph"/></a>
 </p>
 
 # My Waka Time
