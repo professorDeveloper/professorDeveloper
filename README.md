@@ -2,30 +2,30 @@
 
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Hello+Github;Welcome+to+my+profile;kotlin+java+dart;Android+Flutter+KMM" alt="Typing SVG"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="assets/cards/typing.svg" alt="Typing SVG"></a>
 </p>
 
 
 ### 📊 My Github Stats:
 
 <p align="left">
-  <img src="https://gh-readme-stats.vercel.app/api?username=professorDeveloper&show_icons=true&theme=dracula" alt="professorDeveloper's github stats"/>
+  <img src="assets/cards/stats.svg" alt="professorDeveloper's github stats"/>
 </p>
 
 <p align="left">
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=professorDeveloper&theme=dracula&line_height=60&line_width=120" alt="Top languages"/>
+  <img src="assets/cards/top-langs.svg" alt="Top languages"/>
 </p>
 
 ## My Streak
 
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=professorDeveloper&theme=dracula" alt="GitHub Streak"/></a>
+  <a href="https://git.io/streak-stats"><img src="assets/cards/streak.svg" alt="GitHub Streak"/></a>
 </p>
 
 ## My Ranks
 
 <p align="left">
-  <img width="100%" src="https://github-profile-trophy-eight.vercel.app/?username=professorDeveloper&theme=dracula&column=-1&margin-w=5" alt="GitHub Ranks"/>
+  <img width="100%" src="assets/cards/trophy.svg" alt="GitHub Ranks"/>
 </p>
 
 
@@ -34,7 +34,7 @@
 ## ✍️ Random Dev Quote
 
 <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random dev quote"/>
+  <img src="assets/cards/quote.svg" alt="Random dev quote"/>
 </p>
 
 
@@ -47,5 +47,5 @@
 # My Waka Time
 
 <p align="left">
-  <a href="https://wakatime.com/@box"><img src="https://gh-readme-stats.vercel.app/api/wakatime?username=box&theme=dracula&langs_count=5" alt="professorDeveloper's wakatime stats"/></a>
+  <a href="https://wakatime.com/@box"><img src="assets/cards/wakatime.svg" alt="professorDeveloper's wakatime stats"/></a>
 </p>

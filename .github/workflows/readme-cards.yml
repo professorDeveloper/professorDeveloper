@@ -1,0 +1,42 @@
+name: README cards
+
+on:
+  schedule:
+    - cron: '47 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/readme-cards.yml'
+      - '.github/scripts/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-cards
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh the cards
+        run: .github/scripts/refresh-cards.sh
+
+      - name: Commit if anything changed
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add assets/cards
+          if git diff --cached --quiet; then
+            echo "Unchanged."
+          else
+            git commit -m "chore: refresh the README cards"
+            git pull --rebase origin main
+            git push
+          fi
