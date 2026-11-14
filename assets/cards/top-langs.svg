@@ -122,11 +122,11 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">Dart</text>
-      <text x="215" y="34" class="lang-name">55.45%</text>
+      <text x="215" y="34" class="lang-name">55.46%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="55.452664201582444%">
+      <svg data-testid="lang-progress" width="55.46049777898888%">
         <rect
             height="8"
             fill="#00B4AB"
@@ -145,7 +145,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="16.570579642046948%">
+      <svg data-testid="lang-progress" width="16.567665732248106%">
         <rect
             height="8"
             fill="#A97BFF"
@@ -164,7 +164,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="13.502498621062898%">
+      <svg data-testid="lang-progress" width="13.500124228380765%">
         <rect
             height="8"
             fill="#3178c6"
@@ -183,7 +183,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="11.314997540391186%">
+      <svg data-testid="lang-progress" width="11.313007816258471%">
         <rect
             height="8"
             fill="#00ADD8"
@@ -202,7 +202,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="3.1592599949165203%">
+      <svg data-testid="lang-progress" width="3.158704444123781%">
         <rect
             height="8"
             fill="#f1e05a"
