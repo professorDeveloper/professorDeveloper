@@ -6,7 +6,7 @@
     width='500px' height='100px'>
 
     
-                    <path id='path0'>
+                            <path id='path0'>
                             <!-- Single line -->
                                 <animate id='d0' attributeName='d' begin='0s;d3.end'
                     dur='5000ms' fill='remove'
@@ -20,7 +20,7 @@
             Hello Github
         </textPath>
     </text>
-        <path id='path1'>
+                <path id='path1'>
                             <!-- Single line -->
                                 <animate id='d1' attributeName='d' begin='d0.end'
                     dur='5000ms' fill='remove'
@@ -34,7 +34,7 @@
             Welcome to my profile
         </textPath>
     </text>
-        <path id='path2'>
+                <path id='path2'>
                             <!-- Single line -->
                                 <animate id='d2' attributeName='d' begin='d1.end'
                     dur='5000ms' fill='remove'
@@ -48,7 +48,7 @@
             kotlin java dart
         </textPath>
     </text>
-        <path id='path3'>
+                <path id='path3'>
                             <!-- Single line -->
                                 <animate id='d3' attributeName='d' begin='d2.end'
                     dur='5000ms' fill='remove'
