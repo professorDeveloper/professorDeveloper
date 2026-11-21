@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Azamov X's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1197, Total Commits  (last year) : 1081, Total PRs: 158, Total Issues: 23, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 1194, Total Commits  (last year) : 1083, Total PRs: 158, Total Issues: 23, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 29.60961367849455;
+        stroke-dashoffset: 29.6094085069054;
       }
     }
   
